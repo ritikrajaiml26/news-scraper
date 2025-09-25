@@ -25,7 +25,7 @@ pip install requests beautifulsoup4
 ** How to Run
 Clone this repository:
 
-git clone https://github.com/your-username/news-scraper.git
+git clone https://github.com/ritikrajaiml26/news-scraper.git
 Navigate to the folder:
 
 
